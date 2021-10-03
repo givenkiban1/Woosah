@@ -9,7 +9,7 @@ Our team, Mindful Hacks, took part in a hackathon hosted by Empire partner found
 We were tasked with coming up with a solution that helps people in SA struggling from mental health.
 
 ## Our Solution
-Read about this on my twitter :D [My twitter post about this hackathon](https://twitter.com/Given_kibanza/status/1444641058957189123)
+Read about this on my [My twitter post about this hackathon](https://twitter.com/Given_kibanza/status/1444641058957189123) twitter :D
 
 ## NB
 The solution was not fully implemented, but i will work on it overtime to get it to accomplish what we set it out to complete.
